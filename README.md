@@ -11,12 +11,17 @@ Key Insights Covered in this Report :
 2. Total Number of Metrolines: Understand the Distrubtion of Metrolines and the Metro Stations.
 3. Performance Analysis between Buses and MetroS mapping and Distrubtions: Identify Most performing Stations and Bus stops and proption between these main transportations to optimize operations.
 
-   <img width="497" alt="1" src="https://github.com/user-attachments/assets/04d64360-74a0-446f-9305-eca723df3e37" />
 
-   In this Dashboard you can Navigate the Analysis get grasp of the following pages.
+   <img width="494" alt="0" src="https://github.com/user-attachments/assets/741b8190-17d9-44a0-828f-90d8cbf392eb" />
 
-   
-<img width="493" alt="2" src="https://github.com/user-attachments/assets/4c049973-84b4-4abc-a31c-306f361d2929" />
+In this Dashboard you can Navigate the Analysis get grasp of the following pages.
+
+________________________________
+
+
+<img width="493" alt="2" src="https://github.com/user-attachments/assets/e5a5944e-2aa0-40da-b4fe-3e79b01cc5a5" />
+
+
 
 All bus informations been suggested in this dashboard where u can see where each stops is located, the count of the buses, the sheltered used in the stops, and Top 10 buses where they covers many stops and bottom 10.
 
@@ -57,6 +62,9 @@ COUNTROWS (
     ("Top Buses", NAMEOF('_Measure'[TopN]), 0),
     ("Bottom Buses", NAMEOF('_Measure'[Bottom N]), 1)
 }
+
+
+<img width="484" alt="-2" src="https://github.com/user-attachments/assets/ca2f3fc2-f582-4504-a09a-73a82c9f7824" />
 
 ______________________________________
 
@@ -104,6 +112,9 @@ COUNTROWS (
     ("topN", NAMEOF('_Measure'[Metro topN]), 0),
     ("BottomN", NAMEOF('_Measure'[Metro BottomN]), 1)
 }
+
+
+<img width="499" alt="-3" src="https://github.com/user-attachments/assets/56135db7-2f34-4820-8dcc-f6daac9eaa26" />
 
 _______________________
 <img width="404" alt="4" src="https://github.com/user-attachments/assets/101ad064-e8da-4954-b883-43d1b4464188" />
